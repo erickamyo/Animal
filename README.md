@@ -11,18 +11,8 @@
 3a. Rooster class implemented at line 47 Solution.java. 
 3b,3c. Chicken object is created in rooster class. (without having inheritance from Chicken class) 
 
-
-4. Can you model a parrot? We are specifically interested in three parrots, one that
-lived in a house with dogs one in a house with cats, the other lived on a farm next to
-the rooster.
-a. A parrot living with dogs says: “Woof, woof”
-b. A parrot living with cats says: “Meow”
-c. A parrot living near the rooster says: “Cock-a-doodle-doo”
-d. How do you keep the parrot maintainable? What if we need another parrot
-lives near a Duck? Or near a phone that rings frequently?
-
 4. Interface: Thing implemented at line 65. Dog,Cat, RoosterB , (telephone,duck etc ) implements interface Thing.     
-at line 210-213 Solution.java , parrot object is created and called for parrots that stays with dogs, cat, Rooster etc.  
+At line 210-213 Solution.java , parrot object is created and called for parrots that stays with dogs, cat, Rooster etc.  
 
 B. Model fish:
 1a,b,c.  Fish implemented at line 101 Solution.java . attributes created : size and color. 
