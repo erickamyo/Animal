@@ -19,14 +19,14 @@ B. Model fish:
 2a,b.    attributes (size and color) for Shark (at line 132,133 Solution.java) and Clownfish (at line 145,146 Solution.java) were implemented . 
 2c,2d.   method for shark : eat() at line 137 Solution.java . method for clownfish: joke() at line 149 Solution.java. 
 
-3. Dolhpin is not a fish. so, Dolphin class do not inherit Fish but, fish object is created to use swim() method. at line 157 Solution.java. 
+3. Dolphin is not a fish. so, Dolphin class do not inherit Fish but, fish object is created to use swim() method. at line 157 Solution.java. 
  
 D. Model animals that change their behaviour over time
 1,2. Butterfly class implemented at line 187 Solution.java.  Caterpillar class implemented at line 173 Solution.java. 
    They both inherit the abstract class ButterflyLifeCycle and methods were created per requirements.  
    
 E. Counting animals
-1. cuont() method at line 220 , Solution.java to count the number of animals that fly, walk, sing and swim. 
+1. count() method at line 220 , Solution.java to count the number of animals that fly, walk, sing and swim. 
 
 Bonus: 
 1. RoosterInter class implemented at line 269 Solution.java.
